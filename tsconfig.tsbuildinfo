@@ -1,1 +1,1 @@
-{"root":["./src/array.ts","./src/index.ts"],"version":"5.7.3"}
+{"root":["./src/array.ts","./src/enums.ts","./src/fun.ts","./src/index.ts","./src/objects.ts"],"version":"5.7.3"}
