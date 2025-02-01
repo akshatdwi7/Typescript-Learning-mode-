@@ -7,4 +7,6 @@ let employee = {
     }
 };
 console.log(employee);
+employee.retire(new Date());
+console.log(employee);
 //# sourceMappingURL=objects.js.map
