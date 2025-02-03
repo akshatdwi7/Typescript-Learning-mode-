@@ -1,5 +1,5 @@
 let employee:{
-    readonly id: number, // we use this property to not let teh change 
+    readonly id: number, // we use this property to not let id change 
      name: string,
      retire :(date : Date)=> void
  } ={
