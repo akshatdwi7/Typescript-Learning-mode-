@@ -10,4 +10,7 @@ let level;
 function render(document:string){
     console.log(document);
 }
+const brocode =()=>{
+    
+}
 
