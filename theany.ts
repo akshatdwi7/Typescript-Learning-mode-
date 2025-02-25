@@ -1,7 +1,7 @@
-let cat;
+let cat:string;
 
 const bro=()=>{
-    return 'mah';
+    return 'bro';
 
 }
 cat = bro();
